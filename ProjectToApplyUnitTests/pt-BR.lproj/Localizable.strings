@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  ProjectToApplyUnitTests
+
+  Created by EquipeSuporteAplicacao on 5/22/18.
+  Copyright © 2018 Thufik. All rights reserved.
+*/
+
+"title" = "título em pt/hue";
+"message" = "mensagem em pt/hue";
+"titleWarning" = "Atenção";
+"messageEmptyMailOrPass" = "Seu email ou senha estão em branco";
+"messageInvalidMail" = "Seu email não está no formato correto";

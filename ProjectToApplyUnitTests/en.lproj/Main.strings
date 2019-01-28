@@ -1,0 +1,15 @@
+
+/* Class = "UITextField"; placeholder = "Digite o seu email"; ObjectID = "AtF-Zl-KRG"; */
+"AtF-Zl-KRG.placeholder" = "Input your e-mail";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "F6x-34-3Ck"; */
+"F6x-34-3Ck.text" = "E-mail";
+
+/* Class = "UILabel"; text = "Senha"; ObjectID = "IXx-O8-4Dl"; */
+"IXx-O8-4Dl.text" = "Password";
+
+/* Class = "UIButton"; normalTitle = "Acessar"; ObjectID = "If9-sb-W7f"; */
+"If9-sb-W7f.normalTitle" = "Access";
+
+/* Class = "UITextField"; placeholder = "Digite a sua senha"; ObjectID = "cz3-VU-iQL"; */
+"cz3-VU-iQL.placeholder" = "Input your password";
